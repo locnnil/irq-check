@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: irqc
+Upstream-Contact: Lincoln Wallace <lincoln.wallace@canonical.com>
+Source: https://github.com/locnnil/irq-check
+
+Files:     check_irqs.sh
+Copyright: 2024, Lincoln Wallace
+
+License:   Apache-2.0
+ On Debian systems, the complete text of the Apache-2.0 License 
+ can be found in `/usr/share/common-licenses/Apache-2.0'.

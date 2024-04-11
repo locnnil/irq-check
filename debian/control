@@ -1,0 +1,18 @@
+Source: irqc
+Section: utils
+Priority: optional
+Maintainer: lincoln wallace <lincoln.wallace@canonical.com>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.5.1
+Homepage: <insert the upstream URL, if relevant>
+Rules-Requires-Root: no
+#Vcs-Git: https://salsa.debian.org/debian/irqc.git
+#Vcs-Browser: https://salsa.debian.org/debian/irqc
+
+Package: irqc
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: check irqs associated with a core
+ Checks which IRQs are associated with a core, then
+ list it's mask and affinity.  
