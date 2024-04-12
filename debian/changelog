@@ -1,3 +1,9 @@
+irqc (1.1.0-1) noble; urgency=medium
+
+  * Changed script name to match package.
+
+ -- lincoln <lincoln.wallace@canonical.com>  Wed, 10 Apr 2024 23:29:27 -0300
+
 irqc (1.0.0-1) noble; urgency=medium
 
   * Initial release.
