@@ -22,4 +22,4 @@ prefix = /usr
 all: install
 
 install:
-	install -m 755 check_irqs.sh $(DESTDIR)$(prefix)/bin
+	install -m 755 irqc $(DESTDIR)$(prefix)/bin
