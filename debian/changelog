@@ -1,4 +1,16 @@
-irqc (1.0.0-1) UNRELEASED; urgency=medium
+irqc (1.0.0-1) noble; urgency=medium
+
+  * Initial release.
+
+ -- lincoln <lincoln.wallace@canonical.com>  Wed, 10 Apr 2024 23:29:27 -0300
+
+irqc (1.0.0-1) mantic; urgency=medium
+
+  * Initial release.
+
+ -- lincoln <lincoln.wallace@canonical.com>  Wed, 10 Apr 2024 23:29:27 -0300
+
+irqc (1.0.0-1) jammy; urgency=medium
 
   * Initial release.
 
